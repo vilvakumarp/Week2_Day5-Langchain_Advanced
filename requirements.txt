@@ -3,7 +3,7 @@
 
 streamlit
 langchain
-langchain-core
-langchain-openai 
+langchain-openai
 langsmith
 python-dotenv
+pydantic
